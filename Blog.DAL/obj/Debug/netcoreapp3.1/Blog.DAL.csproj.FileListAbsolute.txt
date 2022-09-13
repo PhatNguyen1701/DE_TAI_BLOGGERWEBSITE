@@ -1,0 +1,16 @@
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.deps.json
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.runtimeconfig.json
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.runtimeconfig.dev.json
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.dll
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.DAL.pdb
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.AssemblyInfoInputs.cache
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.AssemblyInfo.cs
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.csproj.CoreCompileInputs.cache
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.dll
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.pdb
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.genruntimeconfig.cache
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.Common.dll
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\bin\Debug\netcoreapp3.1\Blog.Common.pdb
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.csproj.AssemblyReference.cache
+D:\LT_CSDL\BloggerWebsite\Blog.DAL\obj\Debug\netcoreapp3.1\Blog.DAL.csproj.CopyComplete
